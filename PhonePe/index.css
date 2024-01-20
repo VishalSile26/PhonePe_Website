@@ -1,0 +1,82 @@
+
+.frontPage1{
+    background-color:  #6739b7;
+    padding: 50px;
+    margin-bottom: 50px;
+}
+.navbar-bg-color{
+    background-color: #6739b7;
+    color: azure;
+}
+#logo{
+    height: 50px;
+}
+#navbarSupportedContent{
+    color:azure;
+    position: absolute;
+    right: 150px;
+    
+    
+}
+.button img{
+    height: 18px;
+    margin: 5px;
+    margin-right: 9px;
+}
+.button{
+    border-radius: 8px;
+    justify-content: center;
+    margin-right: 10px;
+}
+.phonePe-hero{
+    height: 250px;
+    
+    transform: rotate(30deg);
+}
+h3{
+    color: azure;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    margin-bottom:50px;
+}
+.features{
+    height: 50px;
+    width: auto;
+}
+.col-lg-2{
+    color: black;
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 16px;
+    border-radius: 8px;
+    margin: 5px 10px 50px 10px;
+    transition: transform 1s;
+    
+}
+.col-lg-2 p{
+    margin: 12px;
+}
+.col-lg-2:hover{
+    transform: scale(1.2);
+}
+
+.thirdPart{
+    text-align: center;
+    padding: 0 16px;
+
+}
+.col-lg-6{
+    text-align: center;
+}
+.thirdPart img{
+    height: 50px;
+    margin: 18px;
+    border-radius: 32px;
+}
+.final img{
+    height: 20px;
+    border-radius: 0;
+}
+
+
+
